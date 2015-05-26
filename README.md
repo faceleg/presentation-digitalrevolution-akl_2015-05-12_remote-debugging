@@ -93,3 +93,6 @@ mostly works but still has some issues.
 **iOS:** http://moduscreate.com/enable-remote-web-inspector-in-ios-6/
 
 **Android:** https://developer.chrome.com/devtools/docs/remote-debugging
+
+## Additional Useful Sources
+**iOS, Android, Windows phone etc.:** http://developer.telerik.com/featured/a-concise-guide-to-remote-debugging-on-ios-android-and-windows-phone/#weinre
